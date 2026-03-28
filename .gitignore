@@ -221,3 +221,7 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+fp-info-cache
+*.kicad_prl
+.history

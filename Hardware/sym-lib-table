@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "arduino_shieldsNCL")(type "KiCad")(uri "${KIPRJMOD}/KicadLibs/arduino_shieldsNCL.kicad_sym")(options "")(descr ""))
+)

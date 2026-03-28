@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "AVR ISP")(type "KiCad")(uri "${KIPRJMOD}/AVR ISP.pretty")(options "")(descr ""))
+)
