@@ -1,7 +1,6 @@
 AVR ISP Shield for Arduino
 ===========================
-[![AVR ISP Shield of Arduino](http://cdn.shopify.com/s/files/1/0187/3430/products/AVRISP19_large.jpg)  
-AVR ISP Shield for Arduino](http://www.phenoptix.com/avrisp)
+![AVR ISP Shield of Arduino](https://raw.githubusercontent.com/zybreak/AVRISP/refs/heads/master/AVR%20ISP.jpg)
 
 This is an AVR ISP Shield for Arduino
 
@@ -14,6 +13,10 @@ Version History
 ---------------
 * V0.1 Functions well for the ATTiny85 but seem to be having problems with the ATMega328 - working on it!
 * V1.0 Fully working - has a rearrange from previous versions which avoids grounding on the USB connector on an Uno.
+* V1.3 Board update
+   - Updated the LED pins to match the ones used in the arduino as isp sketch.
+   - Added reset capacitor to prevent the arduino from resetting before programming.
+   - Added support for an external clock.
 
 License Information
 -------------------
