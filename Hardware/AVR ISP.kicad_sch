@@ -6099,7 +6099,7 @@
 				)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "22pF"
 			(at 74.9363 38.1 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6180,7 +6180,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_Polarized"
+		(property "Value" "10uF"
 			(at 45.72 113.9189 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6653,7 +6653,7 @@
 				)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "22pF"
 			(at 74.9363 53.34 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6734,7 +6734,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Crystal"
+		(property "Value" "16Mhz"
 			(at 69.85 48.2599 90)
 			(show_name no)
 			(do_not_autoplace no)

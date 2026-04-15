@@ -826,44 +826,32 @@
 			(layer "Dwgs.User")
 			(uuid "98bef948-0f6b-4ad9-a020-a626059fd529")
 		)
-		(pad "" thru_hole circle
+		(pad "" np_thru_hole circle
 			(at 13.97 -2.54 90)
 			(size 3.937 3.937)
 			(drill 3.175)
 			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers yes)
-			(keep_end_layers yes)
-			(zone_layer_connections)
 			(uuid "1f2af7e4-3535-405e-85cf-2be961cd1b05")
 		)
-		(pad "" thru_hole circle
+		(pad "" np_thru_hole circle
 			(at 15.24 -50.8 90)
 			(size 3.937 3.937)
 			(drill 3.175)
 			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers yes)
-			(keep_end_layers yes)
-			(zone_layer_connections)
 			(uuid "ad92200e-305e-46cc-90d2-f6d055c1f60c")
 		)
-		(pad "" thru_hole circle
+		(pad "" np_thru_hole circle
 			(at 66.04 -35.56 90)
 			(size 3.937 3.937)
 			(drill 3.175)
 			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers yes)
-			(keep_end_layers yes)
-			(zone_layer_connections)
 			(uuid "44423cf7-b6a0-4a44-b52d-4b6ff001e1dd")
 		)
-		(pad "" thru_hole circle
+		(pad "" np_thru_hole circle
 			(at 66.04 -7.62 90)
 			(size 3.937 3.937)
 			(drill 3.175)
 			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers yes)
-			(keep_end_layers yes)
-			(zone_layer_connections)
 			(uuid "add89324-88a3-470f-99ca-7d457c2a1f9d")
 		)
 		(pad "0" thru_hole oval
